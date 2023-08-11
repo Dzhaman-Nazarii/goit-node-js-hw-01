@@ -1,4 +1,6 @@
 # goit-node-js-hw-01
+LIST - https://monosnap.com/file/8IlgfyBfWl72iunaihOooKk4N7nzjH
+
 Крок 1
 Ініціалізуй проєкт за допомогою команди npm init
 В корені проєкту створи файл index.js
