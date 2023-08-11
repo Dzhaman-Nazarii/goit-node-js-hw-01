@@ -1,7 +1,10 @@
 # goit-node-js-hw-01
 LIST - https://monosnap.com/file/8IlgfyBfWl72iunaihOooKk4N7nzjH
+
 ID - https://monosnap.com/file/2LgjcrDw0iSpW2SquBRFvb3fy9ni90
+
 NEW - https://monosnap.com/file/R1Lac4NEBMAf8KfLanDZUIe44Zs5kz
+
 REMOVE - https://monosnap.com/file/mb8LD27cZ5QtOPDsm4NeXOhnJCNWwE
 
 Крок 1
